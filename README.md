@@ -15,7 +15,7 @@ This session covered what you need to know about copyright and licensing of your
 
 *In this repo you will find*
 
-- the slides prented at the `workshop 20210315-IntroToLicensing-NCH` and `20210322-LicensingYourWork-NCH.pptx`
+- the slides prented at the workshop: `workshop 20210315-IntroToLicensing-NCH` and `20210322-LicensingYourWork-NCH.pptx`
 
 
 ## Author
