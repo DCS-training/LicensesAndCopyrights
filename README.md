@@ -2,7 +2,6 @@
 
 This two sessions workshop (15-22/03/2021) focused on how to correctly use copyrighted material and find out about best practices on copyright for your own work. 
 
-Each workshop runs on a Monday from 14:00 - 15:00 and will take place on Microsoft Teams.
 
 **Session 1: Using copyrighted material - what you need to know**
 
