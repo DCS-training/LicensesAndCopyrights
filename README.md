@@ -24,4 +24,4 @@ Niel Chue Hong from SSI [Software Sustainability Institute](https://www.software
 Licenses, Copyrights
 
 ## License
-All material here collected is free to use but it is covered by a License: CC BY 4.0 license
+All material collected here is free to use but it is covered by a License: CC BY NC 4.0 license
